@@ -19,7 +19,6 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 
 ### ⚙️ Tech Stack
 
-<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" width="45" height="45"/>
 
@@ -45,7 +44,6 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" alt=".NET" width="45" height="45"/>
 
-</p>
 
 ---
 
