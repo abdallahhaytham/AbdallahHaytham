@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 
 💡 I design and build robust backend systems with a focus on performance, scalability, and clean architecture.  
