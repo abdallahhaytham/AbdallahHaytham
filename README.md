@@ -12,8 +12,8 @@
 
 
 
-💡 I design and build robust backend systems with a focus on performance, scalability, and clean architecture.  
-🚀 I focus on building scalable, clean, and maintainable backend systems using modern .NET technologies.
+💡 Backend developer focused on building scalable and maintainable APIs using clean architecture principles, with hands-on experience in authentication, data access, and performance optimization.
+
 
 ---
 
