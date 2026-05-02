@@ -2,8 +2,8 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # بيشتغل كل 12 ساعة
-  workflow_dispatch: # تقدر تشغله يدوي
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -30,5 +30,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: output # ده البرانش اللي اللينك بيقرأ منه
+          publish_branch: output
           commit_message: Update snake animation
