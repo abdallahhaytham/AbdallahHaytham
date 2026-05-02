@@ -79,6 +79,6 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/AbdallahHaytham/abdallahhaytham/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/abdallahHaytham/AbdallahHaytham/output/github-contribution-grid-snake.svg)
 
 
