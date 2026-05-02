@@ -72,6 +72,10 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 - 📌 Open source contributions
 
 ---
+<p align="center">
+
+![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0,0f2027,203a43,2c5364&title_color=00ffcc&icon_color=00ffcc&text_color=ffffff)
+</p>
 
 ### 📫 Contact Me
 
@@ -80,6 +84,4 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 
 ---
 
-### ⚡ Fun Fact
 
-I enjoy breaking down complex systems into simple, understandable parts.
