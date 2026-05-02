@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=70&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" /></p>
-I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 💡 I design and build robust backend systems with a focus on performance, scalability, and clean architecture.  
 🚀 I focus on building scalable, clean, and maintainable backend systems using modern .NET technologies.
