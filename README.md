@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=Hi&height=300&color=gradient&text=Blur&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi+I'm+Abdallah&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=40&textBg=false" />
 
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9600BD&width=600&height=51&lines=+++++++.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=9600BD&width=600&height=51&lines=Junior+.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer&section=footer&" alt="Typing SVG" />
   </a>
 
 
