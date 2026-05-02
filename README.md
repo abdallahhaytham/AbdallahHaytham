@@ -72,8 +72,7 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 - 📌 Open source contributions
 
 ---
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Contact Me
 
