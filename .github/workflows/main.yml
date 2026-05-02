@@ -2,8 +2,8 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *" # بيشتغل كل 12 ساعة
+  workflow_dispatch: # تقدر تشغله يدوي
 
 permissions:
   contents: write
@@ -20,13 +20,15 @@ jobs:
       - name: Generate snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: abdallahhaytham
+          github_user_name: AbdallahHaytham
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+          publish_dir: ./dist
+          publish_branch: output # ده البرانش اللي اللينك بيقرأ منه
+          commit_message: Update snake animation
