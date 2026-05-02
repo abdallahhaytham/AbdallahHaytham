@@ -5,10 +5,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=4000&color=9600BD&width=435&lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=9600BD&width=1000&height=201&lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer" alt="Typing SVG" />
   </a>
 </p>
-
 
 💡 I design and build robust backend systems with a focus on performance, scalability, and clean architecture.  
 🚀 I focus on building scalable, clean, and maintainable backend systems using modern .NET technologies.
