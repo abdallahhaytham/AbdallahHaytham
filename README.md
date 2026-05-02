@@ -46,14 +46,13 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 
 ### 🚀 Featured Projects
 
-- 🏋️ Gym Management System  
-  ASP.NET Core API with Clean Architecture, JWT Authentication, and SQL Server.
+- 📊 Stock App  
+  ASP.NET Core application with unit testing (xUnit).  
+  🔗 https://github.com/abdallahhaytham/StockAppwithxUnit.git
 
-- 📁 File Management System  
-  Desktop app using C# WinForms with SQLite for file storage and organization.
-
-- 🔐 Authentication System  
-  Secure authentication system using JWT & Refresh Tokens.
+- 🔄 CRUD Operations Project  
+  Implementation of full CRUD operations using .NET technologies.  
+  🔗 https://github.com/abdallahhaytham/CRUDSolution.git
 
 ---
 
@@ -72,7 +71,7 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 - 📌 Open source contributions
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 Contact Me
 
 - GitHub: https://github.com/abdallahhaytham  
