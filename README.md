@@ -54,7 +54,7 @@ I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
   Implementation of full CRUD operations using .NET technologies.  
   🔗 https://github.com/abdallahhaytham/CRUDSolution.git
 
-  - 🚗 Car License Management System  
+- 🚗 Car License Management System  
   Desktop application for managing car licenses and related data.  
   🔗 https://github.com/abdallahhaytham/Car-License-Management-
 
