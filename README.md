@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=50&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" />
+<img src="https://capsule-render.vercel.app/api?type=Hi&height=300&color=gradient&text=Blur&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false" />
 
 
   <a href="https://git.io/typing-svg">
