@@ -1,9 +1,7 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=50&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5100F7&width=435&lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer)](https://git.io/typing-svg)
-
-
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0016CF&width=435&lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer" alt="Typing SVG" /></a>
 </p>
 
 
