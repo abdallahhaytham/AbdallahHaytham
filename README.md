@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=70&color=0:0a192f,100:112240&fontColor=cccccc&stroke=0a192f" /></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=70&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" /></p>
 I'm Abdullah — a Backend Developer specializing in ASP.NET Core.
 
 💡 I design and build robust backend systems with a focus on performance, scalability, and clean architecture.  
