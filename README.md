@@ -2,8 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=70&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" />
 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer&size=40&center=true&vCenter=true&width=800&height=100)](https://git.io/typing-svg)
-
+<div style="text-align: right; margin-right: 50px;">
+  <img src="https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer&size=40&center=true&vCenter=true&width=800&height=100" />
+</div>
 
 </p>
 
