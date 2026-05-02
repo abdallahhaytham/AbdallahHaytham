@@ -1,14 +1,12 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=50&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" />
 
-  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=5100F7&width=435&lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer)](https://git.io/typing-svg)
 
 
 </p>
 
-<div style="text-align: right; margin-right: 50px;">
-  <img src="https://readme-typing-svg.demolab.com/?lines=.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer&size=40&center=true&vCenter=true&width=800&height=100&color=0A192F" />
-</div>
+
 
 
 💡 I design and build robust backend systems with a focus on performance, scalability, and clean architecture.  
