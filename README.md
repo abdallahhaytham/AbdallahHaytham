@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=70&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Abdallah&fontSize=50&color=0:1e3a8a,100:3b82f6&fontColor=e5e7eb&stroke=3b82f6" />
 
   
 <div style="text-align: right; margin-right: 50px;">
