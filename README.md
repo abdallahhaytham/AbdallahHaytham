@@ -46,8 +46,6 @@
 
 ### Featured Projects
 
-### Featured Projects
-
 | Project | Description | Tech Stack | Link |
 |--------|------------|-----------|------|
 | **Stock App** | Scalable ASP.NET Core application with unit testing and clean architecture principles applied. | ASP.NET Core, xUnit, EF Core | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
