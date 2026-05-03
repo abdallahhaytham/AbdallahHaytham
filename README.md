@@ -46,17 +46,13 @@
 
 ### Featured Projects
 
-- Stock App  
-  ASP.NET Core application with unit testing (xUnit).  
-  https://github.com/abdallahhaytham/StockAppwithxUnit.git
+### Featured Projects
 
-- CRUD Operations Project  
-  Implementation of full CRUD operations using .NET technologies.  
-  https://github.com/abdallahhaytham/CRUDSolution.git
-
-- Car License Management System  
-  Desktop application for managing car licenses and related data.  
-  https://github.com/abdallahhaytham/Car-License-Management-
+| Project | Description | Tech Stack | Link |
+|--------|------------|-----------|------|
+| **Stock App** | Scalable ASP.NET Core application with unit testing and clean architecture principles applied. | ASP.NET Core, xUnit, EF Core | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
+| **CRUD System** | Full-featured CRUD operations project demonstrating solid data handling and API structure. | .NET, SQL Server, LINQ | [View Project](https://github.com/abdallahhaytham/CRUDSolution.git) |
+| **Car License Management** | Desktop system for managing car licenses with organized data handling and user workflows. | C#, .NET, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
 
 ---
 
