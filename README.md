@@ -48,9 +48,9 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|------------|-----------|------|
-| **Stock App** | Scalable ASP.NET Core application with unit testing and clean architecture principles applied. | ASP.NET Core, xUnit, EF Core | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
-| **CRUD System** | Full-featured CRUD operations project demonstrating solid data handling and API structure. | .NET, SQL Server, LINQ | [View Project](https://github.com/abdallahhaytham/CRUDSolution.git) |
-| **Car License Management** | Desktop system for managing car licenses with organized data handling and user workflows. | C#, .NET, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
+| **Stock App** | Scalable ASP.NET Core application with unit testing and clean architecture principles applied. | ASP.NET MVC, xUnit, EF Core | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
+| **CRUD System** | Full-featured CRUD operations project demonstrating solid data handling and API structure. | .NET, SQL Server, LINQ, xUnit | [View Project](https://github.com/abdallahhaytham/CRUDSolution.git) |
+| **Car License Management** | Desktop system for managing car licenses with organized data handling and user workflows. | C#, Ado.Net, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
 
 ---
 
