@@ -72,8 +72,9 @@
 
 ### Contact Me
 
-- GitHub: https://github.com/abdallahhaytham  
-- LinkedIn: https://www.linkedin.com/in/abdallah-haytham-5b7109320  
+- Email: abdallah01100095973@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdallah-haytham-5b7109320
+- Whatsapp: 01125935800
 
 ---
 
