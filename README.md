@@ -6,7 +6,7 @@
 </a>
 </p>
 
-💡 Backend developer focused on building scalable and maintainable APIs using clean architecture principles, with hands-on experience in authentication, data access, and performance optimization.
+💡 Junior Backend developer focused on building scalable and maintainable APIs using clean architecture principles, with hands-on experience in authentication, data access, and performance optimization.
 
 ---
 
