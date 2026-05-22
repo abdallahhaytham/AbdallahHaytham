@@ -75,6 +75,7 @@
 - Email: abdallah01100095973@gmail.com
 - LinkedIn: [Abdallah Haytham](https://www.linkedin.com/in/abdallah-haytham-5b7109320)
 - WhatsApp: [Chat with me](https://wa.me/201125935800)
+- Telegram: [Chat with me](https://t.me/Abdallah7391)
 
 ---
 
