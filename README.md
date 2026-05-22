@@ -12,11 +12,11 @@
 
 ### About Me
 
-- Backend Developer (ASP.NET Core)
-- Strong foundation in C#, OOP, LINQ, and SQL Server
-- Interested in Clean Architecture & System Design
-- Passionate about building secure and efficient APIs
-- Currently diving deeper into advanced backend concepts and performance optimization
+* Backend developer specializing in ASP.NET Core and scalable web APIs
+* Basic experience with RESTful APIs, Entity Framework Core, and SQL Server
+* Interested in clean architecture, microservices, and systems design
+* Focused on performance optimization, security, and easy-to-maintain backend solutions
+* Currently learning advanced backend architecture concepts, caching, authentication, and cloud-ready application development
 
 ---
 
