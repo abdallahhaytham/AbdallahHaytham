@@ -6,7 +6,7 @@
 </a>
 </p>
 
-💡 Junior Backend Developer focused on building scalable and maintainable APIs. My goal is not only to write code, but also to gain a deep understanding of project management, business design, and error engineering, while selecting the most suitable solution from hundreds of possible solutions.
+💡 Junior Backend Developer focused on building scalable and maintainable APIs. My goal is not only to write code, but also to gain a deep understanding of project management, system design, and error engineering, while selecting the most suitable solution from hundreds of possible solutions.
 
 
 ---
@@ -63,7 +63,7 @@
 
 ### Looking For
 
-- Working as an engineer with experience in system administration
+- Working as an engineer with experience in business model
 - Working in an organization that encourages teamwork and collaboration
 - Working as an engineer who understands the root causes of problems and solves them
 
