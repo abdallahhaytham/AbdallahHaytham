@@ -6,7 +6,7 @@
 </a>
 </p>
 
-💡 Junior Backend Developer focused on building scalable and maintainable APIs. My goal is not only to write code, but also to gain a deep understanding of project management, system design, and error engineering, while selecting the most suitable solution from hundreds of possible solutions.
+💡 Junior Backend Developer focus on building scalable and maintainable APIs. My goal is not only to write code, but also to gain a deep understanding of project management, system design, and error engineering, while selecting the most suitable solution from hundreds of possible solutions.
 
 
 ---
