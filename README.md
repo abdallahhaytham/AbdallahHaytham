@@ -16,7 +16,7 @@
 - Experienced in building RESTful APIs, desktop applications, and database-driven systems using C# and .NET.
 - Familiar with layered architecture, authentication, middleware, filtering, and unified API response handling.
 - I aspire to develop from a junior programmer to an expert programmer capable of analyzing and solving problems, and choosing appropriate maintenance solutions (not just writing code).
-- 
+  
 ---
 
 ### Tech Stack
