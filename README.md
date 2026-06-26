@@ -56,9 +56,8 @@
 ### Current Focus
 
 - Building real-world backend projects
-- Improving system design and architecture skills
-- Writing clean, testable, and maintainable code
-
+- Focus on soft skills and system design
+- Intensive development in the business model.
 ---
 
 ### Looking For
