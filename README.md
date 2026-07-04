@@ -51,6 +51,12 @@
 | **Stock App** | Scalable ASP.NET Core application with unit testing and clean architecture principles applied. | ASP.NET MVC, xUnit, EF Core | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
 | **CRUD System** | Full-featured CRUD operations project demonstrating solid data handling and API structure. | .NET, SQL Server, LINQ, xUnit | [View Project](https://github.com/abdallahhaytham/CRUDSolution.git) |
 | **Car License Management** | Desktop system for managing car licenses with organized data handling and user workflows. | C#, Ado.Net, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
+| **Gym Managment System** |  A business-oriented Gym Management System built to model and automate real-world gym operations.
+        The project focuses on translating business requirements into a scalable software solution, covering
+        the complete membership lifecycle including members, coaches, administrators, subscriptions,
+        payments, attendance tracking, workout plans, and exercises. Developed using Clean Architecture
+        principles to ensure maintainability, separation of concerns, and scalability. |   ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication,
+        Clean Architecture, Repository Pattern, AutoMapper | [View Project](https://github.com/abdallahhaytham/GymManagementSystem) |
 
 ---
 
