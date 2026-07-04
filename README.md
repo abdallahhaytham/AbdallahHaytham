@@ -48,15 +48,10 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|------------|-----------|------|
-| **Stock App** | Scalable ASP.NET Core application with unit testing and clean architecture principles applied. | ASP.NET MVC, xUnit, EF Core | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
-| **CRUD System** | Full-featured CRUD operations project demonstrating solid data handling and API structure. | .NET, SQL Server, LINQ, xUnit | [View Project](https://github.com/abdallahhaytham/CRUDSolution.git) |
-| **Car License Management** | Desktop system for managing car licenses with organized data handling and user workflows. | C#, Ado.Net, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
-| **Gym Managment System** |  A business-oriented Gym Management System built to model and automate real-world gym operations.
-        The project focuses on translating business requirements into a scalable software solution, covering
-        the complete membership lifecycle including members, coaches, administrators, subscriptions,
-        payments, attendance tracking, workout plans, and exercises. Developed using Clean Architecture
-        principles to ensure maintainability, separation of concerns, and scalability. |   ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication,
-        Clean Architecture, Repository Pattern, AutoMapper | [View Project](https://github.com/abdallahhaytham/GymManagementSystem) |
+| **Stock App** | Scalable stock management application built with Clean Architecture, focusing on maintainability, business logic separation, and comprehensive unit testing. | ASP.NET Core MVC, EF Core, SQL Server, xUnit | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
+| **CRUD System** | CRUD-based application demonstrating clean data management, layered architecture, and structured API development with unit testing. | .NET, SQL Server, LINQ, xUnit | [View Project](https://github.com/abdallahhaytham/CRUDSolution.git) |
+| **Car License Management** | Desktop application that automates car license management through organized workflows, data processing, and user-friendly interfaces. | C#, ADO.NET, SQL Server, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
+| **Gym Management System** | Business-oriented gym management system designed to automate real-world gym operations, covering members, coaches, subscriptions, payments, attendance, workout plans, and exercises. Built with Clean Architecture to ensure scalability, maintainability, and clear separation of concerns. | ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, Clean Architecture, Repository Pattern, AutoMapper | [View Project](https://github.com/abdallahhaytham/GymManagementSystem) |
 
 ---
 
