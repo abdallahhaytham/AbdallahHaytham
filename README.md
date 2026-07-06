@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" />
-  <img src="https://serilog.net/img/serilog.png" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png" width="45" />
 </p>
 
 <p align="left">
