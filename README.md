@@ -33,13 +33,15 @@
 </p>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" />
+    <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="45" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="45" />
-  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="45" />
+    <img src="https://images.icon-icons.com/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="65" />
+
 </p>
 
 ---
