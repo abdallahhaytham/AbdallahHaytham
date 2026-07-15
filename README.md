@@ -35,7 +35,7 @@
 <p align="left">
     <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="45" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" width="45" />
+  <img src="https://aspnano.com/wp-content/uploads/2024/01/razor-new-200.png" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" />
