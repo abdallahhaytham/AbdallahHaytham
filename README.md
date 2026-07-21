@@ -56,6 +56,7 @@
 | **Car License Management** | Desktop application that automates car license management through organized workflows, data processing, and user-friendly interfaces. | C#, ADO.NET, SQL Server, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
 | **Gym Management System** | Business-oriented gym management system for managing members, coaches, subscriptions, payments, attendance, and workout plans using Clean Architecture. | ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, Clean Architecture, Repository Pattern, AutoMapper | [View Project](https://github.com/abdallahhaytham/GymManagementSystem) |
 | **E-Commerce Platform (comming soon)** | Enterprise-level e-commerce application with authentication, role-based authorization, shopping cart, order processing, Stripe payments, and Clean Architecture using Entity Framework Core. | ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Core Identity, Stripe, Clean Architecture | [View Project](https://github.com/abdallahhaytham/Bulky_ASP.git) |
+| **MechanicShop (comming soon)** | A Domain-Driven Design (DDD) based mechanic shop management system that encapsulates business rules within a rich domain model using Clean Architecture and the Result Pattern. | ASP.NET Core, Entity Framework Core, SQL Server| [View Project](https://github.com/abdallahhaytham/MechanicShop.git) |
 
 ---
 
