@@ -30,18 +30,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png" width="45" />
-</p>
-
-<p align="left">
-    <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="45" />
-
+  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="45" />
   <img src="https://aspnano.com/wp-content/uploads/2024/01/razor-new-200.png" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="45" />
-    <img src="https://images.icon-icons.com/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="65" />
-
+  <img src="https://images.icon-icons.com/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="60" />
 </p>
 
 ---
