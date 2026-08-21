@@ -6,7 +6,7 @@
 </a>
 </p>
 
-💡 Junior Backend Developer focused on building scalable and maintainable APIs. My goal is not only to write code, but also to gain a deep understanding of project management, system design, and error engineering, while selecting the most suitable solution from hundreds of possible solutions.
+💡 Junior .NET Backend Developer focused on building scalable and maintainable RESTful APIs using C#, ASP.NET Core, EF Core, and SQL Server. Experienced in developing business-oriented systems using Clean Architecture, CQRS, and Domain-Driven Design. Strong understanding of OOP, SOLID principles, design patterns, and system design, with a focus on writing maintainable code and making sound architectural decisions.
 
 
 ---
