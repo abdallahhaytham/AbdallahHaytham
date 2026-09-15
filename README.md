@@ -45,9 +45,6 @@
 
 | Project | Description | Tech Stack | Link |
 |--------|------------|-----------|------|
-| **Stock App** | Scalable stock management application built with Clean Architecture, focusing on maintainability, business logic separation, and comprehensive unit testing. | ASP.NET Core MVC, EF Core, SQL Server, xUnit | [View Project](https://github.com/abdallahhaytham/StockAppwithxUnit.git) |
-| **DevCore** | A responsive personal website to showcase projects, services, and contact information. | ASP.NET MVC, HTML, CSS, JS, jQuery | [View Project](https://devcore-production-e808.up.railway.app/) |
-| **CRUD System** | CRUD-based application demonstrating clean data management, layered architecture, and structured API development with unit testing. | .NET, SQL Server, LINQ, xUnit | [View Project](https://github.com/abdallahhaytham/CRUDSolution.git) |
 | **Car License Management** | Desktop application that automates car license management through organized workflows, data processing, and user-friendly interfaces. | C#, ADO.NET, SQL Server, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
 | **Gym Management System** | Business-oriented gym management system for managing members, coaches, subscriptions, payments, attendance, and workout plans using Clean Architecture. | ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, Clean Architecture, Repository Pattern, AutoMapper | [View Project](https://github.com/abdallahhaytham/GymManagementSystem) |
 | **E-Commerce Platform (comming soon)** | Enterprise-level e-commerce application with authentication, role-based authorization, shopping cart, order processing, Stripe payments, and Clean Architecture using Entity Framework Core. | ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Core Identity, Stripe, Clean Architecture | [View Project](https://github.com/abdallahhaytham/Bulky_ASP.git) |
