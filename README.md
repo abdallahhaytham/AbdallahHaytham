@@ -6,7 +6,10 @@
 </a>
 </p>
 
-💡 Junior .NET Backend Developer focused on building scalable and maintainable RESTful APIs using C#, ASP.NET Core, EF Core, and SQL Server. Experienced in developing business-oriented systems using Clean Architecture, CQRS, and Domain-Driven Design. Strong understanding of OOP, SOLID principles, design patterns, and system design, with a focus on writing maintainable code and making sound architectural decisions.
+Junior Backend Developer with strong programming fundamentals, problem-solving, and OOP skills. Solved
+400+ problem-solving challenges and worked on 10+ projects with different ideas and requirements. I focus
+on building a strong foundation in software engineering and continuously improving my skills in Clean
+Architecture, SOLID, and Microservices. Experienced with C#, ASP.NET Core, EF Core, and SQL Server.
 
 
 ---
