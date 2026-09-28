@@ -14,14 +14,6 @@ Architecture, SOLID, and Microservices. Experienced with C#, ASP.NET Core, EF Co
 
 ---
 
-### About Me
-
-- Junior Backend Developer proficient in C# and .NET technologies with experience in ASP.NET Core, MVC, SQL Server, and Entity Framework Core.
-- Experienced in building RESTful APIs, desktop applications, and database-driven systems using C# and .NET.
-- Familiar with layered architecture, authentication, middleware, filtering, and unified API response handling.
-- I aspire to develop from a junior programmer to an expert programmer capable of analyzing and solving problems, and choosing appropriate maintenance solutions (not just writing code).
-  
----
 
 ### Tech Stack
 
@@ -53,22 +45,7 @@ Architecture, SOLID, and Microservices. Experienced with C#, ASP.NET Core, EF Co
 | **E-Commerce Platform (comming soon)** | Enterprise-level e-commerce application with authentication, role-based authorization, shopping cart, order processing, Stripe payments, and Clean Architecture using Entity Framework Core. | ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Core Identity, Stripe, Clean Architecture | [View Project](https://github.com/abdallahhaytham/Bulky_ASP.git) |
 | **MechanicShop (comming soon)** | A Domain-Driven Design (DDD) based mechanic shop management system that encapsulates business rules within a rich domain model using Clean Architecture and the Result Pattern. | ASP.NET Core, Entity Framework Core, SQL Server| [View Project](https://github.com/abdallahhaytham/MechanicShop.git) |
 
----
 
-### Current Focus
-
-- Building real-world backend projects
-- Focus on soft skills and system design
-- Intensive development in the business model.
----
-
-### Looking For
-
-- Working as an engineer with experience in business model
-- Working in an organization that encourages teamwork and collaboration
-- Working as an engineer who understands the root causes of problems and solves them
-
----
 
 ### Contact Me
 
