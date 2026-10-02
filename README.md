@@ -2,7 +2,7 @@
 
 # Abdallah Haytham
 
-Junior .NET Backend Developer
+**Junior .NET Backend Developer**
 Based in Egypt
 
 Clean Architecture Enthusiast | Problem Solver (400+ Challenges) | Always Building
@@ -15,11 +15,11 @@ Clean Architecture Enthusiast | Problem Solver (400+ Challenges) | Always Buildi
 
 ### About Me
 
-Backend Developer specializing in ASP.NET Core, C#, and REST APIs.
+Backend Developer specializing in **ASP.NET Core**, **C#**, and **REST APIs**.
 
-Passionate about Clean Architecture, DDD, CQRS, and SOLID Principles.
+Passionate about **Clean Architecture**, **DDD**, **CQRS**, and **SOLID Principles**.
 
-Solved 400+ problem-solving challenges and built 10+ projects.
+Solved **400+ problem-solving challenges** and built **10+ projects**.
 
 </div>
 
@@ -29,7 +29,7 @@ Solved 400+ problem-solving challenges and built 10+ projects.
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,git,github,postman,sqlite,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,git,github,postman,sqlite,html,css,js" />
 
 </div>
 
@@ -39,7 +39,7 @@ Solved 400+ problem-solving challenges and built 10+ projects.
 
 ### Featured Projects
 
-Car License Management
+**[Car License Management](https://github.com/abdallahhaytham/Car-License-Management-)**
 
 Desktop application for car license management.
 
@@ -47,7 +47,7 @@ Desktop application for car license management.
 
 <br>
 
-Gym Management System
+**[Gym Management System](https://github.com/abdallahhaytham/GymManagementSystem)**
 
 Business API for managing members, subscriptions, and payments.
 
@@ -55,7 +55,7 @@ Business API for managing members, subscriptions, and payments.
 
 <br>
 
-E-Commerce Platform
+**[E-Commerce Platform](https://github.com/abdallahhaytham/Bulky_ASP)**
 
 E-commerce system with authentication, cart, orders, and Stripe integration.
 
@@ -63,7 +63,7 @@ E-commerce system with authentication, cart, orders, and Stripe integration.
 
 <br>
 
-MechanicShop
+**[MechanicShop](https://github.com/abdallahhaytham/MechanicShop)**
 
 Repair shop backend focusing on domain modeling and Clean Architecture.
 
@@ -107,6 +107,5 @@ Repair shop backend focusing on domain modeling and Clean Architecture.
 
 </a>
 
-</div>
 
 </div>
