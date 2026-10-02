@@ -29,7 +29,7 @@ Solved **400+ problem-solving challenges** and built **10+ projects**.
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,git,github,postman,sqlite,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,git,github,postman,sqlite,html,css" />
 
 </div>
 
