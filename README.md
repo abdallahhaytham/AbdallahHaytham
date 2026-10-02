@@ -1,80 +1,112 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Hi+I'm+Abdallah&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=40&textBg=false" />
+<div align="center">
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=0D47A1&width=600&height=51&lines=Junior+.NET+Backend+Engineer;ASP.NET+Core+%7C+MVC+Developer" />
-</a>
-</p>
+# Abdallah Haytham
 
-Junior Backend Developer with strong programming fundamentals, problem-solving, and OOP skills. Solved
-400+ problem-solving challenges and worked on 10+ projects with different ideas and requirements. I focus
-on building a strong foundation in software engineering and continuously improving my skills in Clean
-Architecture, SOLID, and Microservices. Experienced with C#, ASP.NET Core, EF Core, and SQL Server.
+Junior .NET Backend Developer
+Based in Egypt
 
+Clean Architecture Enthusiast | Problem Solver (400+ Challenges) | Always Building
+
+</div>
 
 ---
 
+<div align="center">
+
+### About Me
+
+Backend Developer specializing in ASP.NET Core, C#, and REST APIs.
+
+Passionate about Clean Architecture, DDD, CQRS, and SOLID Principles.
+
+Solved 400+ problem-solving challenges and built 10+ projects.
+
+</div>
+
+---
+
+<div align="center">
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/git.png" width="45" />
-  <img src="https://img.icons8.com/?size=100&id=rHpveptSuwDz&format=png&color=000000" width="45" />
-  <img src="https://aspnano.com/wp-content/uploads/2024/01/razor-new-200.png" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="45" />
-  <img src="https://images.icon-icons.com/2157/PNG/512/github_git_hub_logo_icon_132878.png" width="60" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,git,github,postman,sqlite,html,css" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ### Featured Projects
 
-| Project | Description | Tech Stack | Link |
-|--------|------------|-----------|------|
-| **Car License Management** | Desktop application that automates car license management through organized workflows, data processing, and user-friendly interfaces. | C#, ADO.NET, SQL Server, Windows Forms | [View Project](https://github.com/abdallahhaytham/Car-License-Management-) |
-| **Gym Management System** | Business-oriented gym management system for managing members, coaches, subscriptions, payments, attendance, and workout plans using Clean Architecture. | ASP.NET Core Web API, Entity Framework Core, SQL Server, JWT Authentication, Clean Architecture, Repository Pattern, AutoMapper | [View Project](https://github.com/abdallahhaytham/GymManagementSystem) |
-| **E-Commerce Platform (comming soon)** | Enterprise-level e-commerce application with authentication, role-based authorization, shopping cart, order processing, Stripe payments, and Clean Architecture using Entity Framework Core. | ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Core Identity, Stripe, Clean Architecture | [View Project](https://github.com/abdallahhaytham/Bulky_ASP.git) |
-| **MechanicShop (comming soon)** | A Domain-Driven Design (DDD) based mechanic shop management system that encapsulates business rules within a rich domain model using Clean Architecture and the Result Pattern. | ASP.NET Core, Entity Framework Core, SQL Server| [View Project](https://github.com/abdallahhaytham/MechanicShop.git) |
+Car License Management
 
+Desktop application for car license management.
 
+*C# • ADO.NET • SQL Server • WinForms*
 
-### Contact Me
+<br>
 
+Gym Management System
 
-<p align="left">
-  <a href="mailto:abdallah01100095973@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="90" />
-  </a>
+Business API for managing members, subscriptions, and payments.
 
-  <a href="https://www.linkedin.com/in/abdallah-haytham-5b7109320">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="90" />
-  </a>
+*ASP.NET Core Web API • EF Core • JWT • AutoMapper*
 
-  <a href="https://wa.me/201125935800">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" width="110"/>
-  </a>
+<br>
 
-  <a href="https://t.me/Abdallah7391">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" width="110" />
-  </a>
-</p>
+E-Commerce Platform
 
+E-commerce system with authentication, cart, orders, and Stripe integration.
+
+*ASP.NET Core MVC • Identity • EF Core • Stripe*
+
+<br>
+
+MechanicShop
+
+Repair shop backend focusing on domain modeling and Clean Architecture.
+
+*ASP.NET Core • EF Core • DDD • CQRS • MediatR*
+
+</div>
 
 ---
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-</p>
+<div align="center">
+
+### GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahhaytham&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Connect With Me
+
+<div align="center">
+
+<a href="mailto:abdallah01100095973@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+</a>
+
+<a href="https://www.linkedin.com/in/abdallah-haytham-5b7109320">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://wa.me/201125935800">
+  <img src="https://static.vecteezy.com/system/resources/previews/016/716/480/original/whatsapp-icon-free-png.png" width="45" />
+</a>
+
+<a href="https://t.me/Abdallah7391">
+  <img src="https://static.vecteezy.com/system/resources/previews/023/741/142/large_2x/telegram-logo-icon-social-media-icon-free-png.png" width="43" />
+</a>
+
+</a>
+
+</div>
+
+</div>
