@@ -75,16 +75,6 @@ Repair shop backend focusing on domain modeling and Clean Architecture.
 
 <div align="center">
 
-### GitHub Stats
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdallahhaytham&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
 ### Connect With Me
 
 <div align="center">
