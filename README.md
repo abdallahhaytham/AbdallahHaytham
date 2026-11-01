@@ -33,43 +33,6 @@ Solved **400+ problem-solving challenges** and built **10+ projects**.
 
 </div>
 
----
-
-<div align="center">
-
-### Featured Projects
-
-**[Car License Management](https://github.com/abdallahhaytham/Car-License-Management-)**
-
-Desktop application for car license management.
-
-*C# • ADO.NET • SQL Server • WinForms*
-
-<br>
-
-**[Gym Management System](https://github.com/abdallahhaytham/GymManagementSystem)**
-
-Business API for managing members, subscriptions, and payments.
-
-*ASP.NET Core Web API • EF Core • JWT • AutoMapper*
-
-<br>
-
-**[E-Commerce Platform](https://github.com/abdallahhaytham/Bulky_ASP)**
-
-E-commerce system with authentication, cart, orders, and Stripe integration.
-
-*ASP.NET Core MVC • Identity • EF Core • Stripe*
-
-<br>
-
-**[MechanicShop](https://github.com/abdallahhaytham/MechanicShop)**
-
-Repair shop backend focusing on domain modeling and Clean Architecture.
-
-*ASP.NET Core • EF Core • DDD • CQRS • MediatR*
-
-</div>
 
 ---
 
