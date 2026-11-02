@@ -29,7 +29,7 @@ Solved **400+ problem-solving challenges** and built **10+ projects**.
 
 ### Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,git,github,postman,sqlite,html,css" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,docker,git,github,postman,sqlite,html,css" width="400" />
 
 </div>
 
@@ -43,19 +43,19 @@ Solved **400+ problem-solving challenges** and built **10+ projects**.
 <div align="center">
 
 <a href="mailto:abdallah01100095973@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="30" />
 </a>
 
 <a href="https://www.linkedin.com/in/abdallah-haytham-5b7109320">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
 </a>
 
 <a href="https://wa.me/201125935800">
-  <img src="https://static.vecteezy.com/system/resources/previews/016/716/480/original/whatsapp-icon-free-png.png" width="45" />
+  <img src="https://static.vecteezy.com/system/resources/previews/016/716/480/original/whatsapp-icon-free-png.png" width="30" />
 </a>
 
 <a href="https://t.me/Abdallah7391">
-  <img src="https://static.vecteezy.com/system/resources/previews/023/741/142/large_2x/telegram-logo-icon-social-media-icon-free-png.png" width="43" />
+  <img src="https://static.vecteezy.com/system/resources/previews/023/741/142/large_2x/telegram-logo-icon-social-media-icon-free-png.png" width="30" />
 </a>
 
 </a>
