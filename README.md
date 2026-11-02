@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abdallah Haytham
+# Abdallah Haitham
 
 **Junior .NET Backend Developer**
 Based in Egypt
@@ -42,7 +42,7 @@ Solved **400+ problem-solving challenges** and built **10+ projects**.
 
 <div align="center">
 
-<a href="mailto:abdallah01100095973@gmail.com">
+<a href="mailto:abdllahaithem@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="30" />
 </a>
 
